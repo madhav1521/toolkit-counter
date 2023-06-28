@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* counter =============================================================== */
+.counter-btn{margin: 1rem;padding: 0.5rem 1rem;font-size: medium; background-color: cadetblue; border: 0; border-radius: 0.5rem;}
+.counter-input{padding: 0.5rem 1rem;font-size: medium; background-color:rgb(83, 85, 87); width: 5rem; border: 0; border-radius: 0.5rem;}
+/* Header ================================================================ */
+.auth-header{background-color: #050404aa; display: flex;margin: 0 auto 2rem; justify-content: space-around;align-items: center;}
+.auth-header .subNav button{padding: 0.2rem 0.6rem;}
+.subNav{display: flex; list-style: none;}
+.subNav li{margin: 0 1rem;}
+
+/* Auth Form ============================================================== */
+.error{color: red;font-size: 1rem;}
+
+
+
+
